@@ -1,3 +1,5 @@
+// Initials Downloaded From "https://api.dicebear.com/7.x/initials/svg?seed=Aditya%20Jain&backgroundColor=0891b2&textColor=ffffff"
+
 export const portfolioData = {
   personal: {
     name: "Aditya Jain",
@@ -6,7 +8,7 @@ export const portfolioData = {
     greeting: "Hi, I'm Aditya Jain",
     tagline: "Building Production-Ready Systems That Scale",
     techStack: ["Java", "Spring Boot", "Node.js", "Kafka", "React", "MongoDB", "Redis", "Python"],
-    avatar: "https://api.dicebear.com/7.x/initials/svg?seed=Aditya%20Jain&backgroundColor=0891b2&textColor=ffffff",
+    avatar: "logos/AJ_Blue.svg",
     about: "I'm a backend and full-stack developer with 5+ years of experience building high-performance systems that handle real-world scale. From architecting systems that process 5000+ TPS at Paytm to developing innovative freelance projects, I bring technical expertise and business understanding to every project.",
     yearsOfExperience: "5+",
     availability: "Available for Freelance Projects",
@@ -171,19 +173,19 @@ export const portfolioData = {
       name: "Sarah Johnson",
       role: "CTO, TechStart Inc.",
       content: "Aditya delivered our backend system ahead of schedule and it's been rock solid in production. His expertise in scalable architecture saved us months of development time. Highly recommended for any complex project.",
-      avatar: "https://api.dicebear.com/7.x/initials/svg?seed=Sarah%20Johnson&backgroundColor=ec4899&textColor=ffffff",
+      avatar: "logos/SJ_Pink_Testimonials.svg",
     },
     {
       name: "Michael Chen",
       role: "Founder, AppVenture",
       content: "Working with Aditya was a game-changer. He understood our requirements perfectly and built a system that handles our growing user base effortlessly. We look forward to future collaborations.",
-      avatar: "https://api.dicebear.com/7.x/initials/svg?seed=Michael%20Chen&backgroundColor=8b5cf6&textColor=ffffff",
+      avatar: "logos/MC_Violet_Testimonials.svg"
     },
     {
       name: "Priya Sharma",
       role: "Product Manager, DataFlow",
       content: "Exceptional developer! The API he built is not only performant but also well-documented and easy to integrate. Communication was smooth throughout the project.",
-      avatar: "https://api.dicebear.com/7.x/initials/svg?seed=Priya%20Sharma&backgroundColor=f59e0b&textColor=ffffff",
+      avatar: "logos/PS_Yellow_Testimonials.svg",
     },
   ],
 
